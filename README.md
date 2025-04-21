@@ -4,6 +4,7 @@ I'm curently a software tester (I develop automated API tests in java and groovy
 
 ## Projects
 <details> <summary> ##Projects </summary>
+
 - test
 - test
 - test
