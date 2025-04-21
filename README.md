@@ -18,44 +18,27 @@ I'm curently a software tester (I develop automated API tests in java and groovy
 
 |Project|State|Started|Details|
 |-------|-----|-------|-------|
-|[AutoClicker](https://github.com/Furock/AutoClicker)|Finished\*|2025|<details> 
-**🧰 Technologies**
----
-Java, swing for ui, Gradle, vscode
-	
-**🎯 Motivation**  
-I liked clicker games and there this automation makes sense. Besides a friend of mine complained, that her downloaded autoclicker is not good enough
-    
-**📜 Explanation**
-It has a minimal UI (photo is coming), and it's more for technical users than non-technical users:
-You can set the time between pressing the click button and releasing it and the waited time between two clicks. 
-The Background: Everyone has different hardware and it's difficult to guarantee x clicks per second. Instead you can control finer settings and also use an integrated test how many clicks per seconds there are 
-  
-**🚀 Further Potential**
-* better UI
-* using C/C++ for better performance
-* make clicks/s settable
-* ...
-</details>|
+|[AutoClicker](https://github.com/Furock/AutoClicker)|Finished\*|2025|<details> **🧰 Technologies** <br>Java, swing for ui, Gradle, vscode <br>**🎯 Motivation** <br>I liked clicker games and there this automation makes sense. Besides a friend of mine complained, that her downloaded autoclicker is not good enough<br>**📜 Explanation**<br> It has a minimal UI (photo is coming), and it's more for technical users than non-technical users: <br> You can set the time between pressing the click button and releasing it and the waited time between two clicks. <br> The Background: Everyone has different hardware and it's difficult to guarantee x clicks per second. Instead you can control finer settings and also use an integrated test how many clicks per seconds there are <br> **🚀 Further Potential**<br>* better UI<br>* using C/C++ for better performance<br>* make clicks/s settable<br></details>|
 |[FileServer](https://github.com/Furock/FileServer)|Finished\*|2025|no details yet|
 
 <details> 
 <summary>AutoClicker</summary>
 Repository: https://github.com/Furock/AutoClicker
   
-**🧰 Technologies**
----
+### Technologies
 Java, swing for ui, Gradle, vscode
 	
-**🎯 Motivation**  
+### Motivation
+
 I liked clicker games and there this automation makes sense. Besides a friend of mine complained, that her downloaded autoclicker is not good enough
     
-**📜 Explanation**
+### Explanation
+
 It has a minimal UI (photo is coming), and it's more for technical users than non-technical users:
 You can set the time between pressing the click button and releasing it and the waited time between two clicks. 
 The Background: Everyone has different hardware and it's difficult to guarantee x clicks per second. Instead you can control finer settings and also use an integrated test how many clicks per seconds there are 
   
-**🚀 Further Potential**
+### Further Potential
 * better UI
 * using C/C++ for better performance
 * make clicks/s settable
