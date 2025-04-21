@@ -12,6 +12,7 @@ I'm curently a software tester (I develop automated API tests in java and groovy
 |[TextFieldWebSocket](https://github.com/Furock/TextFieldWebSocket)|Finished\*|2025|(Local) Web(socket) server to edit a text field simultaneously from multiple devices within the network|python, html, js, FastAPI, uvicorn, vscode|
 |[YT-DL-ChromeExt](https://github.com/Furock/YT-DL-ChromeExt)|ongoing|2023|Google Chrome Extension for YT-DLP|Chrome API, html, js, python, vscode|
 |[CircleFlowers](https://github.com/Furock/CircleFlowers)|frozen|2023|HTML Canvas Experiment with colored circles|html, js|
+
 Finished\* = works, but release package still has to be attached
 
 ## Project Details
@@ -36,7 +37,7 @@ The Background: Everyone has different hardware and it's difficult to guarantee 
 </details>
 
 <details> 
-<summary>FileServer</summary>
+<summary>FileServer | finished</summary>
 
 ### Motivation
 
@@ -51,8 +52,60 @@ I had files on several devices in the same network and wanted to gather them on 
 * creating folders on the server
 * deleting files on the server
 </details>
+<details>
+<summary>TextFieldWebSocket | finished</summary>
 
+### Motivation
+
+I was interested in how one could establish a connection that sends data in real time and WebSockets were an answer.
+
+### About the program
+
+The program starts a server and when multiple devices visit it with a browser, they can write in the same test area
+(photo coming soon)
+
+### Further Potential
+
+* Not just writing in a text area but editing the same file
+* Have the cursor in the text area at different locations at different devices (currently they are in the same place)
+
+</details>
+
+<details>
+  <summary>YT-DL-ChromeExt | ongoing</summary>
+
+  ### Motivation
+
+  In 2023 I was asked if it was possible to run yt-dl (which you can easily download on linux as cli) as a chrome extension on windows 7. To find a way how this was possible became my motivation
+
+  ### History / How it works
+  
+  1. At the end of 2023 I started to implement the extension part without yt-dl. For yt-dl I had the idea of using a linux container, which might seem to be a good idea but wasn't that simple on windows 7.
+  2. Then I put the project on ice because it wasn't urgent and there was some private stuff going on.
+  3. 2025 I continued the project and found out that you can install yt-dl on windows with python. Yet the current python versions don't run on windows 7. After a bit of research I found the python version (3.8.10) and the version of yt-dl's dependency ffmpeg that run also on windows 7 and it worked
+
+  ### About the program
+
+  (photo coming soon)
+
+  ### Current Status
+
+  The first version of the program works but still is insecure and too quiet (you don't know what the program is doing)
+  Current goal is making the program more secure and more verbose. So you know when the program started and ended and some steps in between.
+  
+</details>
+  
 ## Future Ideas
+
+<details>
+  <summary>Ideas</summary>
+  
+  * Not using this markdown readme as kind of portfolio because you can't nest these collapsibles well enough
+  * Writing a program to read the hard drives (goal: understand how hard drives store data and maybe to be able to restore deleted data)
+  * Writing a game where you can collect and train spells (with the feeling of the anime frieren). I know that is going to be big, so maybe start with a MVP, like: 1 village, 10 spells, 10 quests
+  * Found the genre bot-enic gaming: Games that offer an API with the purpose that the players develop gaming clients 
+  
+</details>
 
 <!--
 **Furock/Furock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
