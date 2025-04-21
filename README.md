@@ -10,8 +10,8 @@ I'm curently a software tester (I develop automated API tests in java and groovy
 |[AutoClicker](https://github.com/Furock/AutoClicker)|Finished\*|2025|Self-explanatory|java, swing for ui, gradle, vscode|
 |[FileServer](https://github.com/Furock/FileServer)|Finished\*|2025|(Local) Web Server to share files within the network|python, html, js, flask, vscode|
 |[TextFieldWebSocket](https://github.com/Furock/TextFieldWebSocket)|Finished\*|2025|(Local) Web(socket) server to edit a text field simultaneously from multiple devices within the network|python, html, js, FastAPI, uvicorn, vscode|
-|[YT-DL-ChromeExt](https://github.com/Furock/YT-DL-ChromeExt)|ongoing|2023|Google Chrome Extension for YT-DLP|Chrome API, html, js, python, vscode|
-|[CircleFlowers](https://github.com/Furock/CircleFlowers)|frozen|2023|HTML Canvas Experiment with colored circles|html, js|
+|[YT-DL-ChromeExt](https://github.com/Furock/YT-DL-ChromeExt)|Ongoing|2023|Google Chrome Extension for YT-DLP|Chrome API, html, js, python, vscode|
+|[CircleFlowers](https://github.com/Furock/CircleFlowers)|Frozen|2023|HTML Canvas Experiment with colored circles|html, js|
 
 Finished\* = works, but release package still has to be attached
 
@@ -93,6 +93,27 @@ The program starts a server and when multiple devices visit it with a browser, t
   The first version of the program works but still is insecure and too quiet (you don't know what the program is doing)
   Current goal is making the program more secure and more verbose. So you know when the program started and ended and some steps in between.
   
+</details>
+
+<details>
+  <summary>CircleFlowers | frozen</summary>
+
+  ### Motivation
+  
+  I just wanted to experiment with HTML Canvas
+
+  ### About it
+  
+  (photo coming soon)
+  In the meantime you can have a look yourself (but be warned that it is buggy)
+  https://furock.github.io/CircleFlowers/
+
+  ### Current State
+
+  Frozen. I do not work on it currently and I do not plan to do so in the near future.
+  It is somewhat buggy (when you change the settings and does not apply instantly but only if some certain other settings are changed)
+  My last work was to try to automate tests for this html but this is also frozen (and not online)
+
 </details>
   
 ## Future Ideas
