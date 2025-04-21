@@ -3,7 +3,18 @@
 I'm curently a software tester (I develop automated API tests in java and groovy against a backend) and like to implement some things also in my free time
 
 ## Projects
-<details> <summary>Projects</summary>
+<details> <summary> ##Projects </summary>
+- test
+- test
+- test
+
++ test
++ test
++ test
+
+* test
+* test
+* test
 * Project 1
 * <details> <summary>Project 2</summary> project 2 details</details>
   
