@@ -42,14 +42,13 @@ In every project there could still be added a release package (and versioning) b
   <summary>[FileServer](https://github.com/Furock/FileServer)</summary>
   Test
 </details>
+</details>
 <details> <summary>ongoing projects</summary>
 
 * <details> <summary>[AutoClicker](https://github.com/Furock/AutoClicker) - just release package missing</summary>
 
 </details>
 <details> <summary>on ice</summary>
-  
-</details>
   
 </details>
 <details> <summary>ideas (not started yet)</summary>
