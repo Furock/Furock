@@ -17,11 +17,8 @@ I'm curently a software tester (I develop automated API tests in java and groovy
 <details>
 
 |Project|State|Started|Details|
--------------------------------
+|-------|-----|-------|-------|
 |[AutoClicker](https://github.com/Furock/AutoClicker)|Finished\*|2025|<details> 
-<summary>AutoClicker</summary>
-Repository: https://github.com/Furock/AutoClicker
-  
 **🧰 Technologies**
 ---
 Java, swing for ui, Gradle, vscode
