@@ -16,7 +16,8 @@ I'm curently a software tester (I develop automated API tests in java and groovy
 
 <details> <summary>finished (for now)</summary>
 In every project there could still be added a release package (and versioning) but for now they're finished and usable (maybe still have to be built)
-* <details> <summary>[AutoClicker](https://github.com/Furock/AutoClicker)</summary>
+
+ * <details> <summary>[AutoClicker](https://github.com/Furock/AutoClicker)</summary>
   
   **🧰 Technologies**    
     Java, swing for ui, Gradle, vscode
