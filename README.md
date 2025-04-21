@@ -3,25 +3,57 @@
 I'm curently a software tester (I develop automated API tests in java and groovy against a backend) and like to implement some things also in my free time
 
 ## Projects
-<details> <summary> ##Projects </summary>
 
-- test
-- test
-- test
+<!-- project structure 
+  **🧰 Technologies**    
 
-+ test
-+ test
-+ test
+  **🎯 Motivation**  
+  
+  **📜 Explanation**    
+  
+  **🚀 Further Potential**  
+-->
 
-* test
-* test
-* test
-* Project 1
-* <details> <summary>Project 2</summary> project 2 details</details>
+<details> <summary>finished (for now)</summary>
+In every project there could still be added a release package (and versioning) but for now they're finished and usable (maybe still have to be built)
+* <details> <summary>[AutoClicker](https://github.com/Furock/AutoClicker)</summary>
+  
+  **🧰 Technologies**    
+    Java, swing for ui, Gradle, vscode
+    
+  **🎯 Motivation**  
+    I liked clicker games and there this automation makes sense. Besides a friend of mine complained, that her downloaded autoclicker is not good enough
+    
+  **📜 Explanation**
+    It has a minimal UI (photo is coming), and it's more for technical users than non-technical users:
+    You can set the time between pressing the click button and releasing it and the waited time between two clicks. 
+    The Background: Everyone has different hardware and it's difficult to guarantee x clicks per second. Instead you can control finer settings and also use an integrated test how many clicks per seconds there are 
+  
+  **🚀 Further Potential**
+    
+  * better UI
+  * using C/C++ for better performance
+  * make clicks/s settable
+  * ...
+</details>
+* <details> <summary>[FileServer](https://github.com/Furock/FileServer)</summary>
+
+</details>
+<details> <summary>ongoing projects</summary>
+
+* <details> <summary>[AutoClicker](https://github.com/Furock/AutoClicker) - just release package missing</summary>
+
+</details>
+<details> <summary>on ice</summary>
   
 </details>
+  
+</details>
+<details> <summary>ideas (not started yet)</summary>
 
 
+
+</details>
 <!--
 **Furock/Furock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
