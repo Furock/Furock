@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hello, I'm Furock
+
+I'm curently a software tester (I develop automated API tests in java and groovy against a backend) and like to implement some things also in my free time
+
+## Projects
+<details> <summary>Projects</summary>
+* Project 1
+* <details> <summary>Project 2</summary> project 2 details</details>
+  
+</details>
+
 
 <!--
 **Furock/Furock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
