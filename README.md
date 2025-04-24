@@ -124,7 +124,7 @@ The program starts a server and when multiple devices visit it with a browser, t
   * Not using this markdown readme as kind of portfolio because you can't nest these collapsibles well enough
   * Writing a program to read the hard drives (goal: understand how hard drives store data and maybe to be able to restore deleted data)
   * Writing a game where you can collect and train spells (with the feeling of the anime frieren). I know that is going to be big, so maybe start with a MVP, like: 1 village, 10 spells, 10 quests
-  * Found the genre bot-enic gaming: Games that offer an API with the purpose that the players develop gaming clients 
+  * Founding the genre bot-enic gaming: Games that offer an API with the purpose that the players develop gaming clients/ manipulate the game 
   
 </details>
 
